@@ -1,0 +1,15 @@
+body{
+	font-family:Times New Roman, Serif;
+	background-color:Orange;
+	margin: 30px auto;
+	color:green;
+	Width:45%;
+}
+#felkover{
+	font-weight: bold;
+}
+#kicsi{
+	width:200px;
+	border:both;
+	
+}

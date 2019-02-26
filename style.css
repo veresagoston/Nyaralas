@@ -1,0 +1,38 @@
+body{
+font-family:arial,sans-sherif;
+	margin: 20px auto;
+	width: 70%;
+	border:3px black solid;
+	padding: 20px;
+	background-color: red;
+	color: yellow;
+	background-image:url("kep.jpg");
+	background-repeat: repeat-y;
+}
+	h1{
+		color: blue;
+		font-weight: normal;
+}
+p{
+	color: gray;
+	font-family:arial;
+	border: 1px green dottad;
+}
+
+
+#elsosor{
+	text-indent: 20px;
+	
+}
+#tomor{
+	list-style-type:disc;
+	
+}
+#ures{
+	list-style-type:circle;
+	
+}
+#negyzet{
+	list-style-type:square;
+	
+}

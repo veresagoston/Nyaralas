@@ -1,0 +1,51 @@
+body{
+	background-color:#DDFFDD;
+	color:#002200;
+	font-family: Times New Roman, Serif;
+	margin: 30px auto;
+	width: 70%;
+	font-size: 14pt;
+	text-align: justify;
+	
+}
+h1{
+	text-align: center;
+}
+#behuz{
+	margin-left: 40px;
+}
+#felkover{
+	font-weight: bold;
+}
+hr{
+	 height:40px;
+	 background-image:url('csillag.png');
+	 margin:0;
+	 padding:0;
+	 border: none;
+}
+#kicsi{
+	width:100px;
+	float:right;
+}
+div{
+	text-align:center;
+}
+	t1{
+		margin-bottom:0;
+		padding-bottom:0;
+	}
+	t2{
+		margin-top:0;
+		padding-top:0;
+	}
+	ul li ul li{
+		font-weight:normal;
+		list-style-type:none;
+	}
+	ul li ul li:first-child{
+	margin-top:15px;
+	}
+	ul li ul li:last-child{
+		margin-bottom:15px;
+	}
